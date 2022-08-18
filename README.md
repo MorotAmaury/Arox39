@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arox39
 - 👀 I’m interested in blockchain developement
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on web3 project
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me Arox#0564 on discord
 
 <!---
